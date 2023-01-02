@@ -1,1 +1,2 @@
 # odin-recipes
+My first public HTML project where I created a recipe website. I have a homepage which contains links to three recipes to popular dishes. Each link is a page which has a brief description of the dish, ingredients, and steps to make the dish.
